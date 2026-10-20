@@ -17,7 +17,7 @@ Hi there! 👋 I am **Tanishq Suryawanshi**, a passionate developer actively bri
 - 💡 My active interests span across **Artificial Intelligence, Web Development, Blockchain Technology,** and **Competitive Programming**.
 - 📝 Published researcher: Authored the paper *"Reclaiming the Digital Dump: Sustainable Pathways for E-Waste Recovery and Reuse"*.
 - 🏆 Recognized innovator: Secured 1st Prize at The Pitch Lab, won Gold/Bronze at Spectrum, and spearheaded award-winning proposals like RAKSHAK and AquaSweep.
-- 📫 Reach me using: [YourEmail@example.com](mailto:YourEmail@example.com)
+- 📫 Reach me using: [tanishqs1712@gmail.com](mailto:tanishqs1712@gmail.com)
 
 ## 🌐 Connect with me:
 <p align="left">
